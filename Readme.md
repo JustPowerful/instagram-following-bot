@@ -1,7 +1,7 @@
 
 ![InstagramLogo](https://i.vimeocdn.com/video/570148251.webp?mw=960&mh=540)
 
-- **Warning :** im not responsible for your acts
+- **Note :** this program isn't updated, so may get some errors .
 
 # About :
 - This bot uses a username list to follow them
